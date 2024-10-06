@@ -222,7 +222,7 @@ nav{
     font-size: 15px;
     font-weight: 400;
 }
-footer{
+ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
