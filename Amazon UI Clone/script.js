@@ -22,7 +22,7 @@ prev_btn.addEventListener('click', (e)=>{
     changeSlide();
 })
 next_btn.addEventListener('click', (e)=> {
-    if(n < imgs.length - 1){
+    if(n < imgs.length - 1) {
         n++;
     }
     else{
